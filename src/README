@@ -1,0 +1,29 @@
+avinoam_nukrai
+206997132
+
+
+Hi, here are some explanations of the general module I built.
+
+First, the shell file contains all the input input from its user,
+its publisher, and its execution. I divided the input of the input (the user's command)
+into separate functions and performed most of the operations in the run () function.
+I also created a separate function for each command that
+Shell supports, these functions execute the above commands
+(adding characters for example to our character pool).
+Also, in the module we allow the user to decide where he wants to export the
+output of our software, to what type of file.
+
+Second, I improved the performance of the program by adding HashMap
+data structures into the BrightnessCharMatcher class, the sub-images
+that make up our overall image will be preserved in this data structure
+and in each clarity calculation we will quickly check whether this image
+has been processed by us or not (identical sub-images may be Assuming they are small enough).
+
+Explanation of my picture (bonus) - as you remember, 2020 was not an easy
+year at all for all of us, because the new year is upon us, get a joke and
+a reminder of how bad 2020 was (true, it has been a year since but 2020 will be remembered forever).
+
+Regarding the algorithms - I used the Internet (unfortunately) and
+simple logic, I added documentation on the solution file :)
+
+Thank you!
